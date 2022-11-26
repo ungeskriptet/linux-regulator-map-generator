@@ -1,0 +1,4 @@
+*.dtb
+.idea/
+__pycache__/
+regulators.dtsi
